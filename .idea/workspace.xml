@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9f74166d-098c-42ad-91db-6789ffadcd12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-intro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Alertlevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Peoplenumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AlertlevelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PeoplenumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Alertlevel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Calculation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Peoplenumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/AlertlevelTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/CalculationTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/PeoplenumberTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Woche 1/maven-intro/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../HelloWorld.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../script.sh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../script2.sh" beforeDir="false" />
     </list>
@@ -156,12 +154,23 @@
       <workItem from="1589538499479" duration="909000" />
       <workItem from="1589539618561" duration="5731000" />
       <workItem from="1589704259410" duration="2715000" />
-      <workItem from="1589707246080" duration="322000" />
+      <workItem from="1589707246080" duration="2444000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="23" key="#Project_Structure" timestamp="1589450279405">
